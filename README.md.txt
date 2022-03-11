@@ -1,1 +1,0 @@
-Hi this is my first repo. It will include my c# basic codes.
